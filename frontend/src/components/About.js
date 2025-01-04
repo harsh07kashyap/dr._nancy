@@ -15,11 +15,12 @@ function AboutSection() {
       <p className="about-description">
         Dr. Nancy is a homoeopath enthusiast who has started to treat all types of acute and chronic diseases.
       </p>
+      
       <h2>BHMS</h2>
       <p>R.B.T.S Govt. Hom. Med. College & Hospital, Muzaffarpur (Govt. of India)</p>
       <h3>My Approach</h3>
       <p>
-        I believe that good diet and healthy mental health are the foundations of inner healing. With additional
+        I believe that healthy diet and good mental health are the foundations of inner healing. With additional
         training in nutrition and health, I take a comprehensive approach to address acute and chronic conditions.
       </p>
       <h3>My Services</h3>
